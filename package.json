@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "18.12.1",
+  "description": "Simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prgmaticoptimst/Intro-To-Node.git"
+  },
+  "author": "Brooks Balogh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prgmaticoptimst/Intro-To-Node/issues"
+  },
+  "homepage": "https://github.com/prgmaticoptimst/Intro-To-Node#readme"
+}
